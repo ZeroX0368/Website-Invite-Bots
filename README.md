@@ -1,1 +1,3 @@
-# Website-Invite-Bots
+Main `node server.js`
+
+Buid `npm install`
